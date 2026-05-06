@@ -1,6 +1,6 @@
 {
   "name": "@chris_m/genius-humanizer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AI-powered text humanizer that bypasses AI detection tools (GPTZero, Turnitin, etc.) by targeting perplexity, burstiness, and entropy signals.",
   "main": "lib/humanizer.js",
   "bin": {
