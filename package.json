@@ -1,0 +1,57 @@
+{
+  "name": "@chris_m/genius-humanizer",
+  "version": "1.0.1",
+  "description": "AI-powered text humanizer that bypasses AI detection tools (GPTZero, Turnitin, etc.) by targeting perplexity, burstiness, and entropy signals.",
+  "main": "lib/humanizer.js",
+  "bin": {
+    "genius-humanizer": "bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "setup": "node lib/setup.js",
+    "gui": "node bin/cli.js --gui",
+    "test": "node bin/cli.js --test"
+  },
+  "keywords": [
+    "ai",
+    "humanizer",
+    "text-humanizer",
+    "ai-detection",
+    "bypass",
+    "paraphrase",
+    "gptzero",
+    "turnitin",
+    "anti-detection",
+    "nlp",
+    "t5",
+    "transformers",
+    "rewrite",
+    "content",
+    "writing"
+  ],
+  "author": "Ahmad",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmad-alhariri-eng/genius-humanizer.git"
+  },
+  "homepage": "https://github.com/ahmad-alhariri-eng/genius-humanizer#readme",
+  "bugs": {
+    "url": "https://github.com/ahmad-alhariri-eng/genius-humanizer/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "os": [
+    "win32",
+    "linux",
+    "darwin"
+  ],
+  "files": [
+    "bin/",
+    "lib/",
+    "python/",
+    "README.md",
+    "LICENSE"
+  ]
+}
