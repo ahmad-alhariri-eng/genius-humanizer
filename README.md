@@ -2,7 +2,7 @@
 
 > **AI-powered text humanizer** that bypasses AI detection tools like GPTZero, Turnitin, and Originality.ai by targeting the core statistical signals they measure.
 
-[![npm version](https://img.shields.io/npm/v/genius-humanizer.svg)](https://www.npmjs.com/package/genius-humanizer)
+[![npm version](https://img.shields.io/npm/v/@chris_m/genius-humanizer.svg)](https://www.npmjs.com/package/@chris_m/genius-humanizer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
